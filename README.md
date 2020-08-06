@@ -1,7 +1,7 @@
 # demo-servlet-min
 
 This is a Minimal Java Servlet Eclipse project.  Its a starting point for learning the basics of servlet 
-development but the directiry structure is not meant to be used for a production project.  There is no Maven build filezand the servlet-spec jar is included in the compile classpath; something you'd never do in a real project. It's a good place to start without having to worry about Maven yet.
+development but the directiry structure is not meant to be used for a production project.  There is no Maven build file and the servlet-spec jar is included in the compile classpath; something you'd never do in a real project. It's a good place to start without having to worry about Maven yet.
 
 
 - You will of course need a Java JRE or JDK.  OpenJDK is best as Oracle now wants $$$ for runtimes and pretty much anything else is always better than something from Oracle anyway.  For Windows use an AdoptOpenJDK LTS, and the J9 engine is pretty awesome; smaller and faster.
