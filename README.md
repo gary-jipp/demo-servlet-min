@@ -13,5 +13,5 @@ development but the directiry structure is not meant to be used for a production
 - Lastly you need Tomcat, which is the reference servlet container.  Don't bother doing development with  something like WebLogic or Websphere or any "vendor" server.  Its pointless as every vendor's server by definition has to be compatible with Tomcat anyway. Therefore any code that you develop in Tomcat is pretty much guaranteed to run anywhere,although some may just need an extra config file in WEB-INF. Don't "install" Tomcat, just download the zip and then hook it into your Eclipse Tomcat plugin.  It's pretty easy.
 
 
-- Import this project into your Eclipse from Git.  File->Import - Git->Projects from Git->Clone Uri. Be careful to tell Git to put the code in your Eclipse workspace or it will by default try to import into your home dir.  You maty want to set the Git preferences to always import into the workspace folder.
+- Import this project into your Eclipse from Git.  File->Import - Git->Projects from Git->Clone Uri. Be careful to tell Git to put the code in your Eclipse workspace or it will by default try to import into your home dir.  You may want to set the Git preferences to always import into the workspace folder.
 
