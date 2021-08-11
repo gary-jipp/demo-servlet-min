@@ -6,7 +6,7 @@
     <reloadable>true</reloadable>
     <redirectLogger>false</redirectLogger>
     <updateXml>true</updateXml>
-    <warLocation>demo.war</warLocation>
+    <warLocation>d:\tmp\demo.war</warLocation>
     <extraInfo></extraInfo>
     <mavenClasspath>false</mavenClasspath>
     <webPath>/demo</webPath>
